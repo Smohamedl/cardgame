@@ -1,5 +1,5 @@
 # cardgame
-API Rest to generate a random card game hand and order it in a randomly generated order.
+Spring Boot Rest Api to generate a hand with randomly chosen cards and order them in a randomly generated order.
 
 API Endpoints:
 - /randomgeneration/generate : generate a random hand with 10 cards
